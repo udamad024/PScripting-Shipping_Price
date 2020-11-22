@@ -20,5 +20,6 @@ class login:
                newuser()
 
 
-A1 = login()
+A1 = login("udamad", "las")
+
 
