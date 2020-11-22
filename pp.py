@@ -19,8 +19,8 @@ class login:
 
 
 A1 = login()
-A1.username = "udamad"
-A1.password = "lasmad"
+A1.username = str(input("Enter Username: "))
+A1.password = str(input("Password: "))
 A1.passcheck()
 
 
