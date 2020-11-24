@@ -37,5 +37,5 @@ def shipping(weight):
     return premium_ground_shipping
 
 
-print((shipping(4.8))
+print(shipping(41.5))
 
